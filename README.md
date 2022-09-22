@@ -4,8 +4,7 @@
 
 </div>
 
-![crewd's GitHub stats](https://github-readme-stats.vercel.app/api?username=crewd&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crewd&layout=compact&hide_border=true)
+![crewd's GitHub stats](https://github-readme-stats.vercel.app/api?username=crewd&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crewd&layout=compact&hide_border=true)
 
 <div align="center">
 
